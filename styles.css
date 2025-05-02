@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(110, 132, 167);
+}
+
+header {
+    color: white;
+}
+
+header h1 span {
+    color: rgb(61, 61, 156);
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li{
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
